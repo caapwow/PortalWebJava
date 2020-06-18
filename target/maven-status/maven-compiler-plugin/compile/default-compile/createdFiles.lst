@@ -1,0 +1,10 @@
+datos\FuncionarioJDBC.class
+domain\Publicacion.class
+datos\PublicacionJDBC.class
+domain\Planta.class
+web\ServletCargos.class
+domain\Area.class
+domain\Funcionario.class
+datos\ConexionOracle.class
+domain\Cargo.class
+domain\Rol.class

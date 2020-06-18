@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.2" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+  <!-- Define Persistence Unit -->
+  <persistence-unit name="my_persistence_unit">
+    <class>datos.Plantas</class>
+    <class>datos.Funcionarios</class>
+    <class>datos.Roles</class>
+    <class>datos.Cargos</class>
+    <class>datos.Comentarios</class>
+    <class>datos.Areas</class>
+    <class>datos.Publicaciones</class>
+    <class>test.Publicaciones</class>
+    <class>test.Plantas</class>
+    <class>test.Cargos</class>
+    <class>test.Comentarios</class>
+    <class>test.Funcionarios</class>
+    <class>test.Roles</class>
+    <class>test.Areas</class>
+  </persistence-unit>
+</persistence>
